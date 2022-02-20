@@ -1,6 +1,6 @@
 # CatalogoBackEnd 
 
-Este proyecto se genero usando npm
+Run `npm install` 
 
 ## Development server
 
